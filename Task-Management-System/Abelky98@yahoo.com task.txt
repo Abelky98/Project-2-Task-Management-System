@@ -1,0 +1,10 @@
+P@ssw0rd123
+Name: Abel Ekwonyeaso
+Address :No 3, Hossanah Street Ilado, Badagry, Lagos, Nigeria.
+Age :53
+TASK 1 :Writing Task Management System Python code
+TARGET 1 :2024-12-14
+TASK 2 :Test the code
+TARGET 2 :2024-12-14
+TASK 3 :Deploying the System Application
+TARGET 3 :2024-12-14
